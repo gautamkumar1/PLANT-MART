@@ -1,4 +1,4 @@
-# plant_app_ui
+# PLANT MART 
 
 A new Flutter project.
 
